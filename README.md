@@ -14,3 +14,8 @@ https://github.com/mikaelalafriz/lucid-sonic-dreams
 https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(soundtrack)#Track_listing
 
 https://archive.org/details/2001SpaceOdyssey-SoundtrackFlac
+
+### Resize images with Python
+https://github.com/dvschultz/dataset-tools
+
+https://www.youtube.com/watch?v=HgSfKfBMAaY&list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq&index=3
