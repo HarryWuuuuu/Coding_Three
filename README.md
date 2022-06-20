@@ -1,3 +1,6 @@
+# Colab Link
+https://colab.research.google.com/github/HarryWuuuuu/Coding_Three/blob/main/Coding_Three_Final_Project.ipynb
+
 # Introduction
 This project is based on my previous research about Human-Computing Integration. Human-Computer Integration (HInt) is an emerging paradigm in which computational and human systems are closely interwoven. (Florian ‘Floyd’ Mueller et al., 2020, p.1).
 
