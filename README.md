@@ -1,3 +1,8 @@
+# Introduction
+This project is based on my previous research about Human-Computing Integration. Human-Computer Integration (HInt) is an emerging paradigm in which computational and human systems are closely in- terwoven. (Florian ‘Floyd’ Mueller et al., 2020, p.1).
+
+In this project, I tried to use machine learning to predict the future form of integrated body, and observe how machine understands this new human state.
+
 # Idea
 The first section of Also sprach Zarathustra is selected as the beginning of 2001: A Space Odyssey by Stanley Kubrick. It implies the rise of human.
 In this audio and visual experiment, I would like to use this song to imply the birth of integrated human. Machine learning predicts a visual protrait of this new form of human.
