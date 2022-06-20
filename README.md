@@ -1,7 +1,12 @@
 # Introduction
 This project is based on my previous research about Human-Computing Integration. Human-Computer Integration (HInt) is an emerging paradigm in which computational and human systems are closely in- terwoven. (Florian ‘Floyd’ Mueller et al., 2020, p.1).
 
-In this project, I tried to use machine learning to predict the future form of integrated body, and observe how machine understands this new human state.
+In this project, I tried to use machine learning to predict a visual protrait of this new form of human, and observe how machine understands this new human state.
+
+# Music
+I select the first section of Also sprach Zarathustra as the background music of this project. This tone poem is created by Richard Strauss. And it is inspired by Friedrich Nietzsche's philosophical 1883–1885 novel Thus Spoke Zarathustra, which implies the relationship of ape to man and man to Superman.
+
+The first section of Also sprach Zarathustra implies the transformations from human to integrated human. It was also used in the 2001: A Space Odyssey to signify the evolutionary transformations, first from ape to man, then from man to Star-Child. Inspired by this film, I would like to express the same feeling within the notion of integrated human.
 
 # Idea
 The first section of Also sprach Zarathustra is selected as the beginning of 2001: A Space Odyssey by Stanley Kubrick. It implies the rise of human.
@@ -15,6 +20,8 @@ Is integrated human a kind of new Superman?
 # Reference
 
 https://github.com/mikaelalafriz/lucid-sonic-dreams
+
+https://en.wikipedia.org/wiki/Also_sprach_Zarathustra
 
 https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(soundtrack)#Track_listing
 
